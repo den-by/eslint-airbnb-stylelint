@@ -13,7 +13,7 @@ module.exports = {
     'airbnb',
     'airbnb/hooks',
   ],
-  plugins: ['react', 'sonarjs', 'promise', 'import'],
+  plugins: [],
   parserOptions: {
     ecmaFeatures: {
       jsx: true,
